@@ -1,0 +1,20 @@
+# Darkville Hapsis
+
+> Releases of Darkville Hapsis, a desktop workbench by Darkville Labs for Windows, with a terminal edition (`hapsis`) for Windows, macOS and Linux. AI agents such as Codex, Claude Code, Cursor and Grok can use the open Hapsis window through its MCP server, once the user allows it.
+
+Start with the guide for agents: how to connect (`hapsis mcp-serve` over standard input and output, or HTTP on 127.0.0.1 with a token), the tools, and what stays with the user. Inside Hapsis's MCP server, the same guide is the `hapsis://help` resource (`hapsis_help`), in the user's language.
+
+## Guide for agents
+
+- [AGENTS_GUIDE.md](https://github.com/hzyrgj001/hapsis/blob/main/AGENTS_GUIDE.md): English
+- [AGENTS_GUIDE.zh-Hans.md](https://github.com/hzyrgj001/hapsis/blob/main/AGENTS_GUIDE.zh-Hans.md): 简体中文
+- [AGENTS_GUIDE.zh-Hant.md](https://github.com/hzyrgj001/hapsis/blob/main/AGENTS_GUIDE.zh-Hant.md): 繁體中文
+
+## Releases
+
+- [Latest release](https://github.com/hzyrgj001/hapsis/releases/latest): the Windows installer and the terminal edition's archives and packages
+- [latest.json](https://github.com/hzyrgj001/hapsis/releases/latest/download/latest.json): the signed update file installed copies read
+
+## Optional
+
+- [README](https://github.com/hzyrgj001/hapsis/blob/main/README.md): what this repository holds
